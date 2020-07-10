@@ -1,0 +1,19 @@
+{
+  "name": "-g",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderschool/canvas_game_starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderschool/canvas_game_starter/issues"
+  },
+  "homepage": "https://github.com/coderschool/canvas_game_starter#readme"
+}
