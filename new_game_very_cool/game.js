@@ -458,12 +458,12 @@ function checkAndKillMonster(){
 
 function resetBullet(){
   bulletX = -20
-  bulletY = -20
+  bulletY = -50
   monsterKill = monsterKill +1
 }
 
 function shoot(){
-  if (bulletY > 0){
+  if (bulletY >= -20){
     bulletY = bulletY -BULLETSPEED
     }else if(bulletY == 0){
       bulletX = -20
