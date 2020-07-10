@@ -1,0 +1,11 @@
+#reset{
+    visibility: hidden;
+}
+
+h3{
+    visibility:hidden;
+}
+
+.flex-container{
+    justify-content: center;
+}
